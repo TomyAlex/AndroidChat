@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "728909074754",
+    "firebase_url": "https://chat-17f15.firebaseio.com",
+    "project_id": "chat-17f15",
+    "storage_bucket": "chat-17f15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728909074754:android:9fee62cc25ba61df",
+        "android_client_info": {
+          "package_name": "com.example.alex.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728909074754-2jldd5lerhg356gqlm3qf4rmt1fbv8eh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2aeK3N-BMDQZiKWAXCXWaPlDxseucfQA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

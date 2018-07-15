@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Chat</string>
+
+    <!--Login Screen-->
+    <string name="Lemail">Email</string>
+    <string name="Lpassword">Password</string>
+    <string name="LrememberMe">Remember me:</string>
+    <string name="LforgetPass">Forget password?</string>
+    <string name="Llogin">Login</string>
+    <string name="LregisterHere">Not register yet? Register here!</string>
+
+    <!--Register Screen-->
+    <string name="RregisterNow">Register now</string>
+    <string name="Remail">Email</string>
+    <string name="Rpassword">Password</string>
+    <string name="RconfirmPass">Confirm Password</string>
+    <string name="RloginMessTV">All ready register? Click here to go login page!</string>
+
+    <!--Account data-->
+    <string name="email">ac@ac.com</string>
+    <string name="pass">azazaz</string>
+</resources>
